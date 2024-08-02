@@ -62,18 +62,15 @@ author:
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "I am currently pursuing a master's in medical informatics with a strong passion for technology. My hobbies include home networking, and I have a keen interest in AI and software development. I love sports, particularly bouldering and volleyball. I use both Windows and Linux operating systems."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/SturmCamper"
+    - label: "HS-Heilbronn"
+      icon: "fab fa-fw fa-university"
+      url: "https://www.hs-heilbronn.de/de/patrick.baracho-dittrich"
+    - label: "Linked-In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pbarachodi/"
 
 footer:
   links:
@@ -81,11 +78,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SturmCamper"
     - label: "HS-Heilbronn"
-      icon: "fab fa-fw fa-tasks"
+      icon: "fab fa-fw fa-university"
       url: "https://www.hs-heilbronn.de/de/patrick.baracho-dittrich"
     - label: "Linked-In"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.hs-heilbronn.de/de/patrick.baracho-dittrich"
+      url: "https://www.linkedin.com/in/pbarachodi/"
 
 defaults:
   # _posts
