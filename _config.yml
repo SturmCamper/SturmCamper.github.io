@@ -19,6 +19,7 @@ repository: "SturmCamper/SturmCamper.github.io"
 # Includes
 include:
   - _pages
+  - assets/css/custom.css
 
 # Plugins (previously gems:)
 plugins:
