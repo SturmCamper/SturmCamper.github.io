@@ -6,6 +6,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/overlay_landing_page_2.png
 
+excerpt: >
+    <p class="excerpt">
+        Some Text asdfasdf asdf asdf asdf asdf as
+    </p>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "personal"
