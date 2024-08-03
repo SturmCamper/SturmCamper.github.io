@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/overlay_landing_page_4.png
 
 excerpt: >
-    <p class="excerpt">
+    <p style="color: #000000;">
         Some Text asdfasdf asdf asdf asdf asdf as
     </p>
 feature_row:
