@@ -1,5 +1,5 @@
 ---
-titel: Welcome to Page 
+titel: "Welcome to my Page" 
 layout: splash
 permalink: /
 hidden: true
