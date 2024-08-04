@@ -1,18 +1,17 @@
 ---
+titel: 
 layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/overlay_landing_page_5.png
+caption: "Photo credit: stability.ai"
 classes:
   - landing
   - dark-theme
-
-excerpt: >
-    <p>
-        Some Text asdfasdf asdf asdf asdf asdf as
-    </p>
+excerpt: "Some Text asdfasdf asdf asdf asdf asdf as"
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "personal"
@@ -21,7 +20,8 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-   
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`' 
 ---
 
 {% include feature_row %}
