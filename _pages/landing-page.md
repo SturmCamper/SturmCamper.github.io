@@ -13,17 +13,17 @@ header:
   caption: "Photo credit: [**Stable Diffusion**](https://stability.ai/)"
 excerpt: "I am Patrick. Here, you will find my portfolio, projects, publication and contact information."
 intro: 
-  - excerpt: "I am currently pursuing a master's in medical informatics with a strong passion for technology. My hobbies include tinkering, sports, and I have a keen interest in AI and software development. I love sports, particularly bouldering and volleyball. I use both Windows and Linux operating systems."
+  - excerpt: "Hello visitor, my name ist Patrick. I am currently pursuing a master's in medical informatics with a strong passion for technology. My hobbies include tinkering, sports, and I have a keen interest in AI and software development. I love sports, particularly bouldering and volleyball."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/overlay_landing_page.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "Curre"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/overlay_landing_page_2.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -31,7 +31,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/overlay_landing_page_3.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
