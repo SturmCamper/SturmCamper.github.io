@@ -6,10 +6,10 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/overlay_landing_page_5.jpg
+  overlay_image: /assets/images/overlay_landing_page_5.png
   actions:
     - label: "Download my CV"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://github.com/SturmCamper/SturmCamper.github.io/tree/master/assets/CV/test.pdf"
   caption: "Photo credit: [**Stable Diffusion**](https://stability.ai/)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
