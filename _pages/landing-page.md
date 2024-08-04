@@ -1,5 +1,5 @@
 ---
-titel: 
+titel: Welcome to Page 
 layout: splash
 permalink: /
 hidden: true
