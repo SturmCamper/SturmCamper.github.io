@@ -1,6 +1,6 @@
 ---
 titel: "Welcome to my Page!" 
-layout: singel
+layout: splash
 permalink: /
 hidden: true
 header:
@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/overlay_landing_page_5.png
 caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+author_profile: false
 
 classes:
   - landing
