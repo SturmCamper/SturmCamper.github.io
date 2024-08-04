@@ -16,7 +16,6 @@ intro:
   - excerpt: "Hello visitor, my name ist Patrick. I am currently pursuing a master's in medical informatics with a strong passion for technology. My hobbies include tinkering, sports, and I have a keen interest in AI and software development. I love sports, particularly bouldering and volleyball."
 feature_row1:
   - image_path: /assets/images/overlay_landing_page.png
-      caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     alt: "placeholder image 2"
     title: "Skills"
     excerpt: "I have a diverse skill set, ranging from full-stack software development and networking to some experience with machine learning in neuroscience."
