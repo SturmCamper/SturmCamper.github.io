@@ -5,9 +5,12 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/overlay_landing_page_5.png
+classes:
+  - landing
+  - dark-theme
 
 excerpt: >
-    <p style="color: #000000;">
+    <p>
         Some Text asdfasdf asdf asdf asdf asdf as
     </p>
 feature_row:
