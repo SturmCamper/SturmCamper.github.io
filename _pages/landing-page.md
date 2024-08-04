@@ -1,7 +1,7 @@
 ---
 titel: "Welcome to my Page!" 
-layout: splash
-permalink: /test
+layout: singel
+permalink: /
 hidden: true
 header:
   overlay_color: "#000"
