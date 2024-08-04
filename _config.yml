@@ -1,22 +1,29 @@
-# Site Setup
-title: SturmCamper
-title_separator: "-"
-subtitle: "Personal"
-email:
-description: "Welcome to my personal website! I am Patrick. Here, you will find my portfolio, blog, and contact information."
-github_username: SturmCamper
-minimal_mistakes_skin: "dark"
-search: true
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
+
+# Site Setup
+locale                   : "de-DE"
+title                    : "SturmCamper"
+title_separator          : "-"
+subtitle                 : "Personal Site"
+name                     : &name "Patrick Baracho Dittrich" # &name is a YAML anchor which can be *referenced later
+description              : &description "Welcome to my personal website! I am Patrick. Here, you will find my portfolio, blog, and contact information."
+url                      : https://sturmcamper.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+repository               : "SturmCamper/SturmCamper.github.io"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+
+# Breadcrumbs
+search: true
+
+
+
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: Europe/Berlin
-repository: "SturmCamper/SturmCamper.github.io"
 
 # Includes
 include:
@@ -62,6 +69,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pbarachodi/"
 
+# Defaults
 defaults:
   # _pages
   - scope:
@@ -71,9 +79,3 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
