@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Stable Diffusion**](https://stability.ai/)"
 excerpt: "I am Patrick. Here, you will find my portfolio, projects, publication and contact information."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: "I am currently pursuing a master's in medical informatics with a strong passion for technology. My hobbies include tinkering, sports, and I have a keen interest in AI and software development. I love sports, particularly bouldering and volleyball. I use both Windows and Linux operating systems."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
