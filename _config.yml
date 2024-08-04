@@ -1,5 +1,7 @@
 # Site Setup
-title: SturmCamper - Personal Site
+title: SturmCamper
+title_separator: "-"
+subtitle: "Personal"
 email:
 description: "Welcome to my personal website! I am Patrick. Here, you will find my portfolio, blog, and contact information."
 github_username: SturmCamper

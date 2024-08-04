@@ -1,5 +1,5 @@
 ---
-titel: "Welcome to my Page" 
+titel: "Welcome to my Page!" 
 layout: splash
 permalink: /
 hidden: true
@@ -7,11 +7,14 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/overlay_landing_page_5.png
-caption: "Photo credit: stability.ai"
+caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
 classes:
   - landing
   - dark-theme
-excerpt: "Some Text asdfasdf asdf asdf asdf asdf as"
+
+excerpt: "I See Stuff"
+
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "personal"
@@ -20,6 +23,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`' 
 ---
