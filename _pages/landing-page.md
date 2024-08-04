@@ -11,7 +11,7 @@ header:
     - label: "Download my CV"
       url: "https://github.com/SturmCamper/SturmCamper.github.io/tree/master/assets/CV/test.pdf"
   caption: "Photo credit: [**Stable Diffusion**](https://stability.ai/)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "I am Patrick. Here, you will find my portfolio, projects, publication and contact information."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
