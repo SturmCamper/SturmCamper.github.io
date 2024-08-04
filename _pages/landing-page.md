@@ -14,37 +14,37 @@ header:
 excerpt: "I am Patrick. Here, you will find my portfolio, projects, publication and contact information."
 intro: 
   - excerpt: "Hello visitor, my name ist Patrick. I am currently pursuing a master's in medical informatics with a strong passion for technology. My hobbies include tinkering, sports, and I have a keen interest in AI and software development. I love sports, particularly bouldering and volleyball."
-feature_row2:
+feature_row1:
   - image_path: /assets/images/overlay_landing_page.png
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+      caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
     alt: "placeholder image 2"
-    title: "Curre"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    title: "Skills"
+    excerpt: "I have a diverse skill set, ranging from full-stack software development and networking to some experience with machine learning in neuroscience."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Discover More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row2:
   - image_path: /assets/images/overlay_landing_page_2.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    title: "Work Experiences"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Discover More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row3:
   - image_path: /assets/images/overlay_landing_page_3.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Discover More"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row3" type="center" %}
