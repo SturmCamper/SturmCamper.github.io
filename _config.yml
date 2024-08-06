@@ -50,7 +50,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SturmCamper"
     - label: "HS-Heilbronn"
-      icon: "fab fa-fw fa-building"
+      icon: "fas fa-fw fa-building"
       url: "https://www.hs-heilbronn.de/de/patrick.baracho-dittrich"
     - label: "Linked-In"
       icon: "fab fa-fw fa-linkedin"
