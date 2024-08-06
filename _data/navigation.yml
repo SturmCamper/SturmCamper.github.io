@@ -1,9 +1,9 @@
 main:
   - title: "Personal"
-    url: /Personal/
+    url: /personal/
   - title: "Publications"
     url: /publications/
   - title: "Projects"
     url: /projects/
   - title: "Contacts"
-    url: /Contacts/
+    url: /pontacts/
