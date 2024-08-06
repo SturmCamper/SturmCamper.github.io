@@ -15,26 +15,26 @@ excerpt: "I am Patrick. Here, you will find my portfolio, projects, publication 
 intro: 
   - excerpt: "Hello visitor, my name ist Patrick. I am currently pursuing a master's in medical informatics with a strong passion for technology. My hobbies include tinkering, sports, and I have a keen interest in AI and software development. I love sports, particularly bouldering and volleyball."
 feature_row1:
-  - image_path: /assets/images/overlay_landing_page.png
+  - image_path: /assets/images/skills.jpg
     alt: "placeholder image 2"
     title: "Skills"
-    excerpt: "I have a diverse skill set, ranging from full-stack software development and networking to some experience with machine learning in neuroscience."
+    excerpt: "I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience."
     url: "#test-link"
     btn_label: "Discover More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/overlay_landing_page_2.png
+  - image_path: /assets/images/work.png
     alt: "placeholder image 2"
     title: "Work Experiences"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: "I'm currently working as a part-time academic worker at Hochschule Heilbronn. Previously, I worked as a working student in the Testing Department."
     url: "#test-link"
-    btn_label: "Discover More"
+    btn_label: "For More Information"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/overlay_landing_page_3.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+  - image_path: /assets/images/books.png
+    alt: "Publications"
+    title: "Publications"
+    excerpt: "My latest publication"
     url: "#test-link"
     btn_label: "Discover More"
     btn_class: "btn--primary"
@@ -46,4 +46,4 @@ feature_row3:
 
 {% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" type="left" %}
