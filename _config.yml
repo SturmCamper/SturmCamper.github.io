@@ -78,4 +78,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: personal
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
+# Collections
+collections:
+  personal:
+    output: true
+    permalink: /:collection/:path/
