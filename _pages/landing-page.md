@@ -20,7 +20,7 @@ feature_row1:
     title: "Skills"
     excerpt: "I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience."
     url: "#test-link"
-    btn_label: "Discover More"
+    btn_label: "Discover Me"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/work.png
@@ -34,9 +34,9 @@ feature_row3:
   - image_path: /assets/images/books.png
     alt: "Publications"
     title: "Publications"
-    excerpt: "My latest publication"
+    excerpt: 'My latest publication, titled "A Web Application for the Interactive Visualization of the German Health Web," was published for the GMDS 2022.'
     url: "#test-link"
-    btn_label: "Discover More"
+    btn_label: "For More Information"
     btn_class: "btn--primary"
 ---
 
