@@ -21,8 +21,9 @@ feature_row1:
     url: "#test-link"
     btn_label: "Discover Me"
     btn_class: "btn--primary"
-    excerpt: "I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience. \br
-    Experience with: "
+    excerpt: >
+      "I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience. <br>
+      Experience with: "
     
 feature_row2:
   - image_path: /assets/images/work.png
