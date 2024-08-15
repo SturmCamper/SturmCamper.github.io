@@ -78,7 +78,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _personal
   - scope:
       path: ""
       type: personal
@@ -86,6 +86,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      sidebar:
+        nav: "docs"
 
 # Collections
 collections:
