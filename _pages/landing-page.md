@@ -18,10 +18,13 @@ feature_row1:
   - image_path: /assets/images/skills.jpg
     alt: "placeholder image 2"
     title: "Skills"
-    excerpt: "I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience."
     url: "#test-link"
     btn_label: "Discover Me"
     btn_class: "btn--primary"
+    excerpt: > 
+    I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience.<br />
+    Experience with: <i class="fa-brands fa-docker"></i>
+    
 feature_row2:
   - image_path: /assets/images/work.png
     alt: "placeholder image 2"
