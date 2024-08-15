@@ -1,7 +1,6 @@
 ---
 title: "Skills"
 excerpt: "My skills and tools that help me tackle challenges and achieve great results."
-
 ---
 # Test
 

@@ -86,8 +86,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      toc_sticky: true
       sidebar:
         nav: "docs"
+    
 
 # Collections
 collections:
