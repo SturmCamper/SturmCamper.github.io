@@ -5,7 +5,6 @@ permalink: /personal/
 collection: personal
 entries_layout: grid
 classes: wide
-toc: true
 ---
 
 I am a Software Engineer and Master's student currently working as an academic assistant at Heilbronn University (HHN). 
