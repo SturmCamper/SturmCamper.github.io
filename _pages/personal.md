@@ -8,8 +8,6 @@ classes: wide
 toc: true
 ---
 
-# Personal
-
 I am a Software Engineer and Master's student currently working as an academic assistant at Heilbronn University (HHN). 
 In my role, I support educational initiatives and manage the administration of the university's learning platform.
 

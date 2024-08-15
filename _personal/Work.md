@@ -1,6 +1,6 @@
 ---
 title: "Work"
-excerpt: "TBA"
+excerpt: "My work experience spans various roles, helping me build valuable skills"
 
 sidebar:
   - title: "Role"
