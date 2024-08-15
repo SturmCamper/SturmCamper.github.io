@@ -23,7 +23,7 @@ feature_row1:
     btn_class: "btn--primary"
     excerpt: >
       I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience. <br>
-      Experience with: <a href="https://hub.docker.com/" target="_blank"> <i class="fa-brands fa-docker"></i> </a>
+      Experince with: <a hrefExperience="https://docker.com/" target="_blank"> <i class="fa-brands fa-docker"></i> </a> <a hrefExperience="https://www.java.com/" target="_blank"> <i class="fa-brands fa-java"></i> </a>
     
 feature_row2:
   - image_path: /assets/images/work.png
