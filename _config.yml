@@ -85,6 +85,7 @@ defaults:
     values:
       layout: single
       toc_sticky: true
+      author_profile: fals
       sidebar:
         nav: "personal"
     
