@@ -84,11 +84,10 @@ defaults:
       type: personal
     values:
       layout: single
-      author_profile: true
       share: true
       toc_sticky: true
       sidebar:
-        nav: "docs"
+        nav: "personal"
     
 
 # Collections
