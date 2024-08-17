@@ -84,7 +84,6 @@ defaults:
       type: personal
     values:
       layout: single
-      share: true
       toc_sticky: true
       sidebar:
         nav: "personal"
