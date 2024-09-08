@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/overlay_landing_page_5.png
   actions:
     - label: "Download my CV"
-      url: "https://github.com/SturmCamper/SturmCamper.github.io/tree/master/assets/CV/test.pdf"
+      url: "https://github.com/SturmCamper/SturmCamper.github.io/tree/master/assets/CV/Patrick_CV.pdf"
   caption: "Photo credit: [**Stable Diffusion**](https://stability.ai/)"
 excerpt: "I am Patrick. Here, you will find my portfolio, projects, publication and contact information."
 intro: 
