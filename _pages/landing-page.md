@@ -18,20 +18,19 @@ feature_row1:
   - image_path: /assets/images/skills.jpg
     alt: "placeholder image 2"
     title: "Skills"
-    url: "#test-link"
+    url: "/personal/Skills/"
     btn_label: "Discover Me"
     btn_class: "btn--primary"
     excerpt: >
       I have a diverse skill set, ranging from full-stack software development and networking to experience with machine learning in the field neuroscience. <br>
       <br>
       Experince with: <i class="fa-brands fa-docker"></i> <i class="fa-brands fa-java"></i> <i class="fa-brands fa-python"></i> <i class="fa-brands fa-aws"></i> <i class="fa-brands fa-github"></i> ...
-    
 feature_row2:
   - image_path: /assets/images/work.png
     alt: "placeholder image 2"
     title: "Work Experiences"
     excerpt: "I'm currently working as a part-time academic worker at Hochschule Heilbronn. Previously, I worked as a working student in the Testing Department."
-    url: "#test-link"
+    url: "/personal/Work/"
     btn_label: "For More Information"
     btn_class: "btn--primary"
 feature_row3:
