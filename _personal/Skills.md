@@ -15,6 +15,7 @@ excerpt: "My skills and tools that help me tackle challenges and achieve great r
 | Non-SQL-DB  | MongoDB, Neo4j, Casandra  | 
 
 # Frontend
+
 | Frontend  | Frameworks/ Tools |  
 |---|---|
 | Java  | Thymeleaf, Swing |  
@@ -23,6 +24,7 @@ excerpt: "My skills and tools that help me tackle challenges and achieve great r
 | Ruby  | Jekyll | 
 
 # Tools
+
 | Tools  | Programm |  
 |---|---|
 | Versioncontroll | GIT |  
@@ -31,6 +33,7 @@ excerpt: "My skills and tools that help me tackle challenges and achieve great r
 
 
 # Cloud Computing
+
 | Provider  | Tool |  
 |---|---|
 | Amazon | Terraform, AWS |  
@@ -38,6 +41,7 @@ excerpt: "My skills and tools that help me tackle challenges and achieve great r
 | SelfHosting  | Docker, Proxmox  |
 
 # Machine Learning
+
 | Python  | Frameworks |  
 |---|---|
 | Machine Learning | Tensorflow, Keras, ScikitLearn | 
