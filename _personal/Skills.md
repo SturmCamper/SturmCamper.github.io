@@ -6,41 +6,41 @@ excerpt: "My skills and tools that help me tackle challenges and achieve great r
 
 # Backend
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-- Java
-    - Spring Boot
-    - meecrowave
-- Python
-- Database
-    - SQL
-    - Non-SQL 
+| Backend  | Frameworks/ Tools |  
+|---|---|
+| Java  |  Spring Boot, Meecrowave, Micronaut, |  
+| Python | Flask, FastAPI  |  
+| GO  |   | 
+| SQL-DB  | Postgres, SQLLite, Redis  | 
+| Non-SQL-DB  | MongoDB, Neo4j, Casandra  | 
 
 # Frontend
-
-- Ruby
-
-- Java Script
-    - Vue.js / Nuxt.js 
+| Frontend  | Frameworks/ Tools |  
+|---|---|
+| Java  | Thymeleaf, Swing |  
+| Js | Vue.js, Nuxt.js, Svelt |  
+| Kotlin  | Android-Apps  | 
+| Ruby  | Jekyll | 
 
 # Tools
-- Git
-- CI/CD
-- Docker
+| Tools  | Programm |  
+|---|---|
+| Versioncontroll | GIT |  
+| CI/CD | Github Actions, Gitlab CI/CD |  
+| Container  | Docker, Proxmox  | 
+
 
 # Cloud Computing
-- AWS
-- Google Clouds
-- Proxmox
+| Provider  | Tool |  
+|---|---|
+| Amazon | Terraform, AWS |  
+| Google | Google-Cloud |  
+| SelfHosting  | Docker, Proxmox  |
 
 # Machine Learning
-
-- Tensorflow
-- Pandas 
-- Py Sparks
+| Python  | Frameworks |  
+|---|---|
+| Machine Learning | Tensorflow, Keras, ScikitLearn | 
+| Analysis | Pandas, PySparks | 
 
 
