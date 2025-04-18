@@ -18,6 +18,6 @@ Also there is a Focus on containarization using docker is beeing taught. (Heidel
 # Tutor
 Assisting students in various practicals such as Mobile Lab and Database
 Mobile Lab includes supporting Kotlin Android app development, while
-Database 2 involves assisting with SQL databases using PostgreSQL.
+Database 2 involves assisting with SQL databases using PostgreSQL. (Heidelberg University/ University Heilbronn, Medical Informatics)
 - **Databases 2**
 - **Mobile Lab**
