@@ -1,0 +1,38 @@
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+<footer class="site-footer h-card">
+  <data class="u-url" value="{{ '/' | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+    <center>
+        <div class="social-links">
+        <a href="https://github.com/sturmcamper"><i class="fab fa-github"></i> GitHub</a>
+        <a href="https://linkedin.com/in/pbarachodi"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        <a href="https://orcid.org/0009-0008-6673-4353"><i class="fab fa-orcid"></i> ORCID</a>
+        <a href="buisness@barachodittrich.me"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://www.hs-heilbronn.de/de/patrick.baracho-dittrich"><i class="fas fa-building"></i> Current Place</a>
+    </div>
+    </center>
+    
+
+  </div>
+ 
+</footer>

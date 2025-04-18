@@ -1,0 +1,17 @@
+<div class="hero-wrapper">
+    <img src="{{ '/assets/img/brain_06.png' | relative_url }}" alt="hero" class="hero-img" />
+    {% if page.hero_text and page.hero_text != "" %}
+    <div class="hero-text">
+      {{ page.hero_text }}
+    </div>
+  {% else %}
+    <div
+      class="hero-text"
+      style="font-weight: bold; font-size: 2rem;"
+    >
+      Patrick Baracho Dittrich
+    </div>
+  {% endif %}
+    <div style="font-weight: bold;"> M.Sc. Student in Medical Informatics</div>
+    <div>Software Engineering | Neuroscience | Machine Learning </div>
+  </div>
