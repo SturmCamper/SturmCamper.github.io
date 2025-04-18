@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /*.webp$
+Disallow: /images/
+
+# Still allow CSS/JS so Google can render your pages correctly
+User-agent: Googlebot
+Allow: /*.css$
+Allow: /*.js$
+
+# Sitemap location
+Sitemap: https://barachodittrich.me/sitemap.xml
+
+# Preferred host
+Host: barachodittrich.me
