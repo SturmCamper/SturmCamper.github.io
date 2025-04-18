@@ -48,3 +48,11 @@ font-weight: 300;      /* or 700 if you prefer bold */
 .text-right {
     text-align: right;
 }
+
+.copyright {
+    text-align: center;
+    font-size: 0.8rem;      // smaller than the default
+    color: #999;            // light gray
+    margin-top: 1rem;       // space above it
+    margin-bottom: 1rem;    // space below it
+}

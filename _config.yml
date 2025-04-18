@@ -1,7 +1,9 @@
 
+author:
+  name: "Patrick Baracho Dittrich"
 
-title: "@BarachoDittrich > ~$"
 email: business@barachodittrich.me
+title: "@BarachoDittrich > ~$"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://barachodittrich.me" # the base hostname & protocol for your site, e.g. http://example.com
 
