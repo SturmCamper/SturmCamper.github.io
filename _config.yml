@@ -3,7 +3,7 @@
 title: "@BarachoDittrich > ~$"
 email: business@barachodittrich.me
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sturmcamper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "barachodittrich.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
@@ -13,6 +13,7 @@ sass:
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
