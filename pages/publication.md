@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+- <span style="color:#0f640a">*Paper:*</span> Patrick Baracho Dittrich, Alexandra Reichenbach <br>
+<span style="color:#0f640a">**Research Ethics for Data Collection from Human Participants – Case Study and Recommendations (2025)**</span><br>
+<span style="color:#0f640a">*Doi:*</span> [https://doi.org/10.1007/978-3-031-93415-5_1 ](https://doi.org/10.1007/978-3-031-93415-5_1 )
 
 
 - <span style="color:#0f640a">*Paper:*</span> Lobentanzer, S., Feng, S., Bruderer, N. et al. <br>
